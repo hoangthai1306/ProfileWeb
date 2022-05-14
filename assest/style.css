@@ -1,0 +1,16 @@
+body {
+	background-color:	#3b444b;
+	text-align: center;
+    font-family: 'Merriweather', serif;
+}
+#thai{
+    font-size: 3em;
+    color: rgb(18, 144, 198);
+}
+.head h1 {
+    font-size:35px;
+}
+.about h2 {
+    font-size:40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
