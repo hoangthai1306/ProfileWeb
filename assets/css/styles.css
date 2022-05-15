@@ -135,14 +135,14 @@ body.dark-theme {
 }
 
 .profile__perfil img {
-  width: 15rem;
+  width: 8rem;
   border-radius: 50%;
 }
 
 .profile__border {
   justify-self: center;
-  width: 20rem;
-  height: 15rem;
+  width: 15rem;
+  height: 10rem;
   border-radius: 50%;
   display: grid;
   place-items: center;
@@ -208,7 +208,7 @@ body.dark-theme {
     padding-top: 4rem;
   }
   .profile__border {
-    width: 200px;
+    width: 250px;
     height: 135px;
     margin-bottom: 1rem;
   }
@@ -217,7 +217,7 @@ body.dark-theme {
     height: 120px;
   }
   .profile__perfil img {
-    width: 90px;
+    width: 130px;
   }
   .profile__profession {
     margin-bottom: 1.5rem;
