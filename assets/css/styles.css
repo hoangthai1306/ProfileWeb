@@ -152,14 +152,6 @@ body.dark-theme {
 .profile__name {
   font-size: var(--h2-font-size);
 }
-
-.profile__profession {
-  font-size: var(--smaller-font-size);
-  font-weight: 500;
-  color: var(--text-color);
-  margin-bottom: 1rem;
-}
-
 .profile__social {
   display: flex;
   justify-content: center;
@@ -218,8 +210,5 @@ body.dark-theme {
   }
   .profile__perfil img {
     width: 130px;
-  }
-  .profile__profession {
-    margin-bottom: 1.5rem;
   }
 }
